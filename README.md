@@ -2,6 +2,7 @@
 
 🚀 Endpoint Management Administrator | DevOps-Minded Engineer | Automation Enthusiast
 
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure-devops&logoColor=white) ![Intune](https://img.shields.io/badge/-Intune-0078D4?logo=microsoft&logoColor=white)
 ---
 
 ## 💼 About Me
@@ -26,6 +27,7 @@
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/mgmourad)  
 
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgmourad&show_icons=true&theme=radical)
 
 
 
