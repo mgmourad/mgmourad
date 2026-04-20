@@ -127,7 +127,7 @@ My current trajectory: closing the gap between endpoint engineering and modern D
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**PSAdminToolkit**](https://github.com/mgmourad/PSAdminToolkit) | Production-grade PowerShell module for SCCM/ConfigMgr automation — collections, deployments, OSD, compliance | `PowerShell` `WMI` `ConfigMgr` |
-| [**MDETools**](https://github.com/mgmourad/poshzone) | PowerShell module for Microsoft Defender for Endpoint — onboarding, policy, and threat automation via Graph API | `PowerShell` `Graph API` `MDE` |
+| [**poshzone**](https://github.com/mgmourad/poshzone) | A collection of PowerShell scripts designed to assist with system administration tasks | `PowerShell` `Graph API` `MDE` |
 | [**GraphAPI-Intune-Toolkit**](https://github.com/mgmourad) | Automating Intune device lifecycle, Entra ID identity tasks, and compliance reporting via Microsoft Graph | `PowerShell` `REST` `Graph API` |
 | [**Win11-24H2-OSD**](https://github.com/mgmourad) | SCCM Task Sequence for Windows 11 24H2 enterprise deployment — modular, documented, production-tested | `SCCM` `OSD` `PowerShell` |
 | [**Ansible Windows Fleet - DevOps**](https://github.com/mgmourad/ansible-windows-fleet) | Enterprise-grade Windows endpoint fleet automation using Ansible, AWX, and Jenkins. | `K3s` `Proxmox` `Ansible` `AWX` `Jenkins` |
