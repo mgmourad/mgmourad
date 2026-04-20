@@ -126,8 +126,8 @@ My current trajectory: closing the gap between endpoint engineering and modern D
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**NTTASCCMTools**](https://github.com/mgmourad/poshzone) | Production-grade PowerShell module for SCCM/ConfigMgr automation — collections, deployments, OSD, compliance | `PowerShell` `WMI` `ConfigMgr` |
-| [**NTTAMDETools**](https://github.com/mgmourad/poshzone) | PowerShell module for Microsoft Defender for Endpoint — onboarding, policy, and threat automation via Graph API | `PowerShell` `Graph API` `MDE` |
+| [**SCCMTools**](https://github.com/mgmourad/poshzone) | Production-grade PowerShell module for SCCM/ConfigMgr automation — collections, deployments, OSD, compliance | `PowerShell` `WMI` `ConfigMgr` |
+| [**MDETools**](https://github.com/mgmourad/poshzone) | PowerShell module for Microsoft Defender for Endpoint — onboarding, policy, and threat automation via Graph API | `PowerShell` `Graph API` `MDE` |
 | [**GraphAPI-Intune-Toolkit**](https://github.com/mgmourad) | Automating Intune device lifecycle, Entra ID identity tasks, and compliance reporting via Microsoft Graph | `PowerShell` `REST` `Graph API` |
 | [**Win11-24H2-OSD**](https://github.com/mgmourad) | SCCM Task Sequence for Windows 11 24H2 enterprise deployment — modular, documented, production-tested | `SCCM` `OSD` `PowerShell` |
 | [**DevOps Homelab**](https://github.com/mgmourad) | Self-hosted infrastructure stack — Proxmox, TrueNAS, Docker media stack, pfSense, and Arch Linux ricing | `Docker` `Proxmox` `Linux` |
